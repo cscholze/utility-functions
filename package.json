@@ -1,0 +1,19 @@
+{
+  "name": "utility-functions",
+  "version": "1.0.0",
+  "description": "Learning node!! Setup for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cscholze/utility-functions.git"
+  },
+  "author": "cScholze (jcsdevel@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cscholze/utility-functions/issues"
+  },
+  "homepage": "https://github.com/cscholze/utility-functions#readme"
+}
